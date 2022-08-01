@@ -1,7 +1,7 @@
 const createSlice = require("@reduxjs/toolkit").createSlice;
 
 const initialState = {
-  numberOfIceCream: 10,
+  numberOfIceCream: 100,
 };
 
 const iceCreamSlice = createSlice({
